@@ -15,3 +15,5 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (
 (6, "Jordan", "I like a little bit of screams", "direwolf", 1, 1),
 (7, "Sean", "I am weird", "human", 1, 1),
 (8, "Tori", "Wife of danny", "human", 1, 1);
+
+INSERT INTO subgenres (id, name) VALUES (1, "medieval"), (2, "demonic");
