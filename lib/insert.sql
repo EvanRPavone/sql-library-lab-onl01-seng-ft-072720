@@ -12,4 +12,4 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (1, "Oli", "Sleepwalking", "direwolf", 1, 1),
 (2, "Matt", "I'm a Drummer", "human", 1, 1),
 (3, "Monster", "Blegh", "human", 1, 1),
-(4, "Eddard Stark", "Winter is coming", "human", 1, 1);
+(4, "Danny", "This is the new Era", "human", 1, 1);
